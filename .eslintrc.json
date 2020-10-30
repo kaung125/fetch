@@ -39,9 +39,4 @@
     },
     {
       "files": ["test/worker.js"],
-      "env": {
-        "worker": true
-      }
-    }
-  ]
-}
+      "en
